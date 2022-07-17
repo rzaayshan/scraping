@@ -1,1 +1,1 @@
-# scraping
+Scraping IT jobs on boss.az using BeautifulSoup
